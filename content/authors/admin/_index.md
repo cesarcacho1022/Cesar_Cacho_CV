@@ -202,3 +202,5 @@ languages:
 ## Acerca de mí
 
 Como especialista en Ciencia de Datos, mi pasión es transformar datos complejos en estrategias de negocio claras y efectivas. Me especializo en el desarrollo de modelos de Machine Learning y en el análisis estadístico para generar insights de alto impacto. Mi objetivo es ir más allá del análisis, interpretando y comunicando resultados de forma que impulsen la toma de decisiones y optimicen la eficiencia operativa.
+##Coffe
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="cesitar102k" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
