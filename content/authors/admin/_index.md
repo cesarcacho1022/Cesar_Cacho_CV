@@ -4,11 +4,11 @@ title: César Cacho
 
 
 # Full name (for SEO)
-first_name: César Raúl 
-last_name: Cacho Leon
+first_name: César Raúl
+last_name: Cacho León
 
 # Pronouns (optional)
-pronouns: 
+#pronouns: 
 
 # Status emoji
 status:
@@ -21,11 +21,11 @@ superuser: true
 highlight_name: False
 
 # Role/position/tagline
-role: Senior Data Science
+role: Data Scientist & Educator
 
 # Organizations/Affiliations to display in Biography blox
-#organizations:
-#  - name: OpenAI
+organizations:
+  - name: Patience is bitter, but its fruit is sweet (Rousseau)
 #    url: https://openai.com/
 
 # Social network links
@@ -36,8 +36,8 @@ profiles:
     label: Correo Personal
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/chechin_cl/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/chechin_cl/
     label: Conoce un poco más de mí
   - icon: brands/github
     url: https://github.com/cesarcacho1022
@@ -199,6 +199,6 @@ languages:
 #      Object-oriented programming (OOP) lets you specify relationships between functions #and the objects that they can act on, helping you manage complexity in your code. This is #an intermediate level course, providing an introduction to OOP, using the S3 and R6 #systems. S3 is a great day-to-day R programming tool that simplifies some of the functions #that you write. R6 is especially useful for industry-specific analyses, working with web #APIs, and building GUIs.
 ---
 
-## About Me
+## Acerca de mí
 
 Como especialista en Ciencia de Datos, mi pasión es transformar datos complejos en estrategias de negocio claras y efectivas. Me especializo en el desarrollo de modelos de Machine Learning y en el análisis estadístico para generar insights de alto impacto. Mi objetivo es ir más allá del análisis, interpretando y comunicando resultados de forma que impulsen la toma de decisiones y optimicen la eficiencia operativa.

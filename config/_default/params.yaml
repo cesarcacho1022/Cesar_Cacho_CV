@@ -7,7 +7,9 @@
 appearance:
   mode: system
   color: emerald
-
+  
+assets:
+  favicon: 'media/icon.png'
 # SEO
 marketing:
   seo:
@@ -35,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "César Cacho"
 
 # Site footer
 footer:
@@ -58,3 +60,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    

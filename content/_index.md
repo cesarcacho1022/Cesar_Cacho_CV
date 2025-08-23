@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Cesar Cacho"
 date: 2025-08-23
 type: landing
 
