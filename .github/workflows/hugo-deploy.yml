@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --baseURL https://cesarcacho1022.github.io/Cesar_Cacho_CV/
+        run: hugo --baseURL https://cesarcacho1022.github.io/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
