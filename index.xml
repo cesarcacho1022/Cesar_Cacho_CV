@@ -7,7 +7,7 @@
     <description>Cesar Cacho</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cesarcacho1022.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://cesarcacho1022.github.io/media/icon_hu_d9586faa2db293ce.png</url>
       <title>Cesar Cacho</title>
       <link>https://cesarcacho1022.github.io/</link>
     </image>
@@ -307,7 +307,7 @@
 
 
 
-&lt;div id=&#34;chart-324175869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-296817534&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -325,7 +325,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-324175869&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-296817534&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
